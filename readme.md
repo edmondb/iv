@@ -7,8 +7,4 @@ Welcome to the Introductory to Python-Based Interactive Visualizations course as
 
 ## Agenda
 
-### Hour 1: Bokeh
-
-### Hour 2: Plotly
-
-### Hour 3: Others
+(coming soon!)
