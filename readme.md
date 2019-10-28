@@ -7,7 +7,7 @@ Welcome to the Introductory to Python-Based Interactive Visualizations course as
 
 ## Agenda
 
-<center>
+<div style="text-align: center;">
 
 | Time | Lecture Topic | Lecturer |
 |------|---------------|----------|
@@ -20,4 +20,4 @@ Welcome to the Introductory to Python-Based Interactive Visualizations course as
 | 15:00-15:30 | [Others](other.md) | Brent |
 | 15:30-16:00 | ** Questions ** | Brent |
 
-</center>
+</div>
