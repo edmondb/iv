@@ -9,7 +9,7 @@ Welcome to the Introductory to Python-Based Interactive Visualizations course as
 
 | Time | Lecture Topic | Lecturer |
 |------|---------------|----------|
-| 13:00-13:15 | [Introduction \& Setup](intro.md) | Brent |
+| 13:00-13:15 | [Introduction](intro.md) | Brent |
 | 13:15-13:45 | [Bokeh](bokeh.md) | Brent |
 | 13:45-14:00 | [Bokeh - Activity](bokeh.md) | Brent |
 | 14:00-14:30 | [Plotly](plotly.md) | Brent |
