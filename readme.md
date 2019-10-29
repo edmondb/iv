@@ -14,6 +14,6 @@ Welcome to the Introductory to Python-Based Interactive Visualizations course as
 | 13:45-14:00 | [Bokeh - Activity](bokeh.md) | Brent |
 | 14:00-14:30 | [Plotly](plotly.md) | Brent |
 | 14:30-14:45 | [Plotly - Activity](plotly.md) | Brent |
-| 14:45-15:00 | ** Break ** | |
+| 14:45-15:00 | __Break__ | |
 | 15:00-15:30 | [Others](other.md) | Brent |
-| 15:30-16:00 | ** Questions ** | Brent |
+| 15:30-16:00 | __Questions__ | Brent |
