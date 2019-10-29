@@ -1,6 +1,6 @@
-The basis of this course in a nutshell: to create better scientific or engineering visualizations.
+The basis of this course in a nutshell: _to create better scientific or engineering visualizations_.
 
-If we consider looking at typical scientific- or engineering-based plot going to a publication or web article, we will want it to be easily understandable, represent the data accurately, and remove any unwanted distrations that may misrepresent the data or confuse the user/reader. Typically, this involves a process as follows:
+If we consider looking at typical scientific- or engineering-based plot going to be put in a journal publication or web article, we will want that imagery to be easily understandable, represent the data accurately, and remove any unwanted distrations that may misrepresent the data or confuse the user/reader. Typically, this involves a process as follows:
 
 ![plot](http://www.randalolson.com/wp-content/uploads/data-ink.gif)
 
