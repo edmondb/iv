@@ -79,16 +79,35 @@ with plt.xkcd():
 
 This is the typically recommended package beyond matplotlib to use. Below is an example using the style of seaborn on top of a typical matplotlib plot.
 
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+sns.set()
 
+x = np.linspace(0, 2, 100)
 
-# Python Visualization Packages
+plt.plot(x, x, label='linear')
+plt.plot(x, x**2, label='quadratic')
+plt.plot(x, x**3, label='cubic')
 
-## Seaborn
+plt.xlabel('x label')
+plt.ylabel('y label')
+
+plt.title("Simple Plot")
+
+plt.legend()
+plt.savefig('three.png')
+```
+
+![three](images/three.png)
+
+[Seaborn Website](https://seaborn.pydata.org/)
+
+We can easily see now that this addresses many of those items from the animation at the beginning of this course.
 
 ## Others
 
-But, enhancing our plotting capabilities through the appearance of visualizations only go so far. They are still considered static imagery.
+There are others out there but, enhancing our plotting capabilities through the appearance of visualizations only go so far. These only create plots that are still considered static imagery.
 
-The basics of this lecture is creating better plots. First, we can enhance our plotting capabilities through styles by using different packages such as the seaborn package. But, those are still static plots that one cannot interact with. As scientists or engineers, or just even curious humans, we might want to __interact__ with the data itself rather than go through this whole routine of get data, visualize it, edit scripts, visualize again. What if we could visualize the data once and then interact with the data/plot to get the "view" we want for publications?
-
-# Introduction
+As scientists or engineers, or just even curious humans, we might want to __interact__ with the data itself rather than go through this whole routine of get data, visualize it, edit scripts, visualize again. What if we could visualize the data once and then interact with the data/plot to get the "view" we want for publications?
